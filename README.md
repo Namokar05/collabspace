@@ -11,8 +11,7 @@
 <img width="1575" height="902" alt="image" src="https://github.com/user-attachments/assets/203b8466-07d3-4315-9a2d-d1a5b787437d" />
 
 ## **Projects Section**: Manage all your projects - view status, priority, progress, and team members.
-
-<img width="1575" height="902" alt="Dashboard" src="https://github.com/user-attachments/assets/203b8466-07d3-4315-9a2d-d1a5b787437d" />
+<img width="1582" height="779" alt="image" src="https://github.com/user-attachments/assets/b0506e85-0dd1-4215-adb8-2b94b7572503" />
 
 ## **Tasks Management**:View, filter, create, and manage tasks across all projects with advanced status tracking.
 
