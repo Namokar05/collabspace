@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+.env
+.env.local
+.env.production
+dist/
+dist-ssr/
+*.local
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.vite/
