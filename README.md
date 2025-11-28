@@ -1,31 +1,35 @@
 # CollabSpace - Project & Team Management Platform
 
-> **Advanced full-stack application for project collaboration, task management, and team coordination**
-Login Window
-![WhatsApp Image 2025-11-28 at 22 38 02_3b8f9d52](https://github.com/user-attachments/assets/892e2578-dd7d-4b0a-bd83-132c5021c283)
+>**Advanced full-stack application for project collaboration, task management, and team coordination**
 
-Collab Space Dahboard
+## **Login Window**: A clean and modern authentication screen for secure access.
+
+<img width="798" height="806" alt="image" src="https://github.com/user-attachments/assets/9bd38d50-d921-4755-80b2-4d2926491b74" />
+
+## **Dashboard Overview**: A powerful analytics dashboard showing task statistics, project activity, and quick insights.
+
 <img width="1575" height="902" alt="image" src="https://github.com/user-attachments/assets/203b8466-07d3-4315-9a2d-d1a5b787437d" />
 
-Project Section
-<img width="1569" height="756" alt="image" src="https://github.com/user-attachments/assets/d137deab-9db2-4b0a-959b-bfcd2d36a519" />
+## **Projects Section**: Manage all your projects - view status, priority, progress, and team members.
 
-Task Section
+<img width="1575" height="902" alt="Dashboard" src="https://github.com/user-attachments/assets/203b8466-07d3-4315-9a2d-d1a5b787437d" />
+
+## **Tasks Management**:View, filter, create, and manage tasks across all projects with advanced status tracking.
+
 <img width="1472" height="859" alt="image" src="https://github.com/user-attachments/assets/3e6fd595-870d-4d19-b34e-2d62ff2d4103" />
 
-Teams Section
+## **Teams Module**: Create and manage teams, assign members, and track productivity.
 <img width="1465" height="633" alt="image" src="https://github.com/user-attachments/assets/0036d6ad-fd5d-4996-aa42-35361416e617" />
 
-Creating New Project
+## **Creating a New Project**: A dedicated interface to add a new project with details like priority, category, and deadlines.
 <img width="1504" height="874" alt="image" src="https://github.com/user-attachments/assets/5384cd1a-aba2-4182-a0a4-c6ddb9b5d917" />
 
-Creating New Tasks for any project
+## **Creating New Tasks for any project**:Add tasks with status, priority, due date, and project association to streamline workflows.
 <img width="1541" height="885" alt="image" src="https://github.com/user-attachments/assets/47127ed5-3e10-4d26-9aec-fd3c835aec2c" />
 
-Making new team 
+## **Making new team**:Set up new teams and assign members to collaborate on projects effectively.
 <img width="1611" height="868" alt="image" src="https://github.com/user-attachments/assets/427caa07-f2e0-4e77-8995-f5587d5d5299" />
 ---
-
 ## 🎯 ProU Technology Assessment - All 3 Tracks
 
 ### ✅ Track 1: Frontend Development
